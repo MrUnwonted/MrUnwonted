@@ -1,0 +1,35 @@
+Git is Distrubuted VCS(Version Control System).
+|| SVN is CVCS(Centrelised)
+	
+				Git keywords
+
+	1.  git
+	2. clear
+	3. git config --global user.name "ARJUN"
+	4. git config --global user.email "arjunchandran2k@gmail.com"
+	5. git init || when used first time in a folder
+	6. ls || list out the folders present in the directory
+	7. cd || change the directory
+	8. ls -a || list put all the folders
+	9. touch name || will create new files in the current folder
+	10. git status || will show the status of the file (edited will be in red)
+	11. git add name || will add the file to the git System
+	12. git commit -m "message to be displayed" || git is committed and saved
+	13. git log || will show the history of every commit we done
+	14. git checkout commit id or branch name || will redirected to the specified committ
+	15. git log --all || will show full history
+	16. git branch name || a new branch will be created
+	17. git branch || will show the current repository
+	18. git merge branchname || will marge from one branch to this
+	19. git diff || will show the differnce btw the last commit and current
+	20. git stash || will wipeout the current committ and come to last committ 
+	21. git log --all --decorate --graph
+	22. :wq || quit
+
+GIT Server Add ----------------------------------------
+
+		1. git remote add name link || Name is whatever and link should will be available in the git repository
+		2. git remote || will show the current remote 
+		3. git remote -v || will show the current links that have been added to the Server
+		4. git push name branchname || will be pushed to the server (Gitlab/Github)
+		5. git clone link || download a project from server
