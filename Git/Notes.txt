@@ -33,3 +33,5 @@ GIT Server Add ----------------------------------------
 		3. git remote -v || will show the current links that have been added to the Server
 		4. git push name branchname || will be pushed to the server (Gitlab/Github)
 		5. git clone link || download a project from server
+		6. git pull || will merge from the server to our local(fetch + merge)
+		7. git push remotename branchname || will pushed to server from our local
