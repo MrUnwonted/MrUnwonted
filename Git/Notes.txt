@@ -20,11 +20,12 @@ Git is Distrubuted VCS(Version Control System).
 	15. git log --all || will show full history
 	16. git branch name || a new branch will be created
 	17. git branch || will show the current repository
-	18. git merge branchname || will marge from one branch to this
-	19. git diff || will show the differnce btw the last commit and current
-	20. git stash || will wipeout the current committ and come to last committ 
-	21. git log --all --decorate --graph
-	22. :wq || quit
+	18. git switch name || will change the branch
+	19. git merge branchname || will marge from one branch to this
+	20. git diff || will show the differnce btw the last commit and current
+	21. git stash || will wipeout the current committ and come to last committ 
+	22. git log --all --decorate --graph
+	23. :wq || quit
 
 GIT Server Add ----------------------------------------
 
