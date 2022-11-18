@@ -1,0 +1,11 @@
+11:44:00 **** Incremental Build of configuration Debug for project star ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\star.o" "..\\src\\star.c" 
+..\src\star.c: In function 'main':
+..\src\star.c:16:8: warning: unused variable 'j' [-Wunused-variable]
+  int i,j,n;
+        ^
+gcc -o star.exe "src\\star.o" 
+
+11:44:01 Build Finished. 0 errors, 1 warnings. (took 761ms)
+

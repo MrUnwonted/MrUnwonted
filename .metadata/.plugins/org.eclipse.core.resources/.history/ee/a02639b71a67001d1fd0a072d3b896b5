@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : searchKey.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int arr[50];
+	int i,sk;
+	setbuf(stdout,NULL);
+	printf("Enter the values:");
+	for(i=0;i<5;i++){
+		scanf("%d",&arr[i]);
+	}
+	printf("Enter the value to search: ");
+	scanf("%d",&sk);
+	for(i=0;i<5;i++){
+		if(sk==arr[i]){
+			printf("Item found at position - %d", i+1);
+			break;
+		}
+	}
+
+	return EXIT_SUCCESS;
+}
