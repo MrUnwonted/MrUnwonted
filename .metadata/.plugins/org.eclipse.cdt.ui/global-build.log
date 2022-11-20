@@ -1,32 +1,32 @@
-14:15:19 **** Rebuild of configuration Debug for project arrSort ****
+16:01:53 **** Rebuild of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:15:28 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 
+Info: Nothing to build for starG9
+16:02:46 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:18:25 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 
+16:03:36 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:19:40 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+..\src\starG9.c: In function 'main':
+..\src\starG9.c:19:6: error: expected expression before '?' token
+    i=?k++:k--;
+      ^
+16:03:54 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:20:59 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 
+16:04:29 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:21:32 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 
+16:05:35 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:24:43 **** Incremental Build of configuration Debug for project arrSort ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 
+16:12:37 **** Incremental Build of configuration Debug for project starG9 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
-14:25:27 **** Incremental Build of configuration Debug for project arrSort ****
-Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
-gcc -o arrSort.exe "src\\arrSort.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\starG9.o" "..\\src\\starG9.c" 
+gcc -o starG9.exe "src\\starG9.o" 

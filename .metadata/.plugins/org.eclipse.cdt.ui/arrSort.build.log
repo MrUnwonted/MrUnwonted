@@ -1,7 +1,7 @@
-14:25:27 **** Incremental Build of configuration Debug for project arrSort ****
+15:26:57 **** Incremental Build of configuration Debug for project arrSort ****
 Info: Internal Builder is used for build
 gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrSort.o" "..\\src\\arrSort.c" 
 gcc -o arrSort.exe "src\\arrSort.o" 
 
-14:25:27 Build Finished. 0 errors, 0 warnings. (took 365ms)
+15:26:58 Build Finished. 0 errors, 0 warnings. (took 517ms)
 
