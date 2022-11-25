@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native and Python with ML
 - 💞️ I’m looking to collaborate on React Native and Python
 - 📫 How to reach me ...
-- Email : arjungodzarjun@gmail.com
+- Email : arjunchandran2k@gmail.com
 
 <!---
 MrUnwonted/MrUnwonted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
