@@ -1,0 +1,26 @@
+package hello;
+
+ class outer{
+	int a;
+	void show() {
+		System.out.println("Outer class called");
+	}
+	class inner extends outer{
+		void display() {
+			System.out.println("Inner class called");
+		}
+	}
+}
+
+public class cls{
+	
+	public static void main(String[] args) {
+		
+		outer ob1 = new outer();
+		outer.inner ob2 = ob1.new inner();
+		ob1.show();
+		ob2.display();
+		
+		
+	}
+}

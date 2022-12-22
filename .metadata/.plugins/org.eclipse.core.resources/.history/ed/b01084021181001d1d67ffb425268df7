@@ -1,0 +1,22 @@
+package hello;
+
+ class outer{
+	int a;
+	void show() {
+		System.out.println("Outer class called");
+	}
+	class inner{
+		void display() {
+			System.out.println("Inner class called");
+		}
+	}
+}
+
+public class cls{
+	
+	public static void main(String[] args) {
+		
+		outer ob1 = new outer();
+		ob1.show();
+	}
+}

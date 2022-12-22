@@ -1,0 +1,27 @@
+package Inh;
+
+class A{
+	A(){
+		System.out.println("in A");
+	}
+	A(int i){
+		System.out.println("in Int A"+i);
+	}
+}
+class B extends A{
+	B(){
+		System.out.println("in A");
+	}
+	B(int i){
+		System.out.println("in Int A"+i);
+	}
+}
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		B ob = new B();
+	}
+
+}
