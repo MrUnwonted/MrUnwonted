@@ -1,6 +1,5 @@
 <div align="center">
 <p>Hey I'm Arjun</p>
-<img src="" align="center" style="width: 100%" />
 </div>  
   
 
