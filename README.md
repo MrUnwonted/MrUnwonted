@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Arjun, a full-time full-stack freelance developer 👨‍💻studying spring boot by dooing open projects 🚀</div>  
+### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻studying spring boot by dooing open projects 🚀</div>  
   
 
 - 🔭 I’m currently working on an ecommerce website  
