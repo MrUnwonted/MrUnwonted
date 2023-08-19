@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunwonted" alt="mrunwonted" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **a project- user Management using react & SpringBoot**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://mrunwonted.github.io/myPortfolio/](https://mrunwonted.github.io/myPortfolio/)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, React**
 
 - 📫 How to reach me **arjunchandran2k@gmail.com**
 
