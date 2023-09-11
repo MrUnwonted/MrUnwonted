@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunwonted" alt="mrunwonted" /></a> </p>
 
-- 🔭 I’m currently working on **a project- user Management using react & SpringBoot**
+- 🔭 I’m currently working on **a project using microservices**
 
 - 🌱 I’m currently learning **Microservices**
 
