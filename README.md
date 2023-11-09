@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate full stack java developer from India</h3>
+<h3 align="center">A passionate full stack java developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunwonted&label=Profile%20views&color=0e75b6&style=flat" alt="mrunwonted" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **project using microservices**
+- 🔭 I’m currently working on **a hospital management** project using microservices
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Redis and kafka**
 
 - 👨‍💻 All of my projects are available at [https://mrunwonted.github.io/myPortfolio/](https://mrunwonted.github.io/myPortfolio/)
 
