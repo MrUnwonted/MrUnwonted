@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **a hospital management** project using microservices
+- 🔭 I’m currently working on **Access Control and Time Attendance** project 
 
-- 🌱 I’m currently learning **Redis and kafka**
+- 🌱 I’m currently learning **Angular and Python**
 
-- 👨‍💻 All of my projects are available at [https://mrunwonted.github.io/myPortfolio/](https://mrunwonted.github.io/myPortfolio/)
+- 👨‍💻 All of my projects are available at [https://www.mrunwonted.online/](https://www.mrunwonted.online/)
 
-- 💬 Ask me about **Java, Spring Boot,Microservices & React**
+- 💬 Ask me about **Java, Spring Boot,Microservices & Angular**
 
-- 📫 How to reach me **https://mrunwonted.github.io/myPortfolio/**
+- 📫 How to reach me **https://www.mrunwonted.online/**
 
-- 📄 Know about my experiences [https://mrunwonted.github.io/myPortfolio/](https://mrunwonted.github.io/myPortfolio/)
+- 📄 Know about my experiences [https://www.mrunwonted.online/](https://www.mrunwonted.online/)
 
 - ⚡ Fun fact **I erase words using 'Ctrl' and 'Backspace'**
 
